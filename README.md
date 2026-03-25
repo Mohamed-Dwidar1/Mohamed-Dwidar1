@@ -9,6 +9,7 @@
 
 I'm a communication and electronics student who is passionate about .
 
+
 - 🎓 &nbsp; Junior Electronics and Communication Engineering student - Cairo University.
 - ⚡ &nbsp; Passionate about Digital Electronics & Hardware Design.
 - 💼 &nbsp; Working as an Embedded Software Engineer at Valeo Egypt.
