@@ -1,16 +1,44 @@
-## Hi there 👋
+<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
-<!--
-**Mohamed-Dwidar1/Mohamed-Dwidar1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> Hey there! I'm Mohamed Dwidar.</h2>
 
-Here are some ideas to get you started:
+<img width="200" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+
+I'm a communication and electronics student who is passionate about .
+
+- 🎓 &nbsp; Junior Electronics and Communication Engineering student - Cairo University.
+- ⚡ &nbsp; Passionate about Digital Electronics & Hardware Design.
+- 💼 &nbsp; Working as an Embedded Software Engineer at Valeo Egypt.
+- 🌱 &nbsp; Currently exploring projects to sharpen my skills. 
+
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/mohamed-dwidar-378058321/)
+
+<h3>  &nbsp;🛠️ Languages and Tools:</h3>
+
+
+- 💻 &nbsp;
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+
+- ⚙️ &nbsp;
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+
+- 🔧 &nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+
+  
+<br/>
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+</p>
+<img src="https://imgur.com/rilHVxA.png"/>
+</p>
