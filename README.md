@@ -22,7 +22,8 @@
 
 - 💻 &nbsp;
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=Mathworks&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-black?style=for-the-badge&logo=Mathworks&logoColor=orange)
+
 
 
 - 📟 &nbsp;
@@ -34,7 +35,7 @@
 
 
 - 🔧 &nbsp;
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-black?style=for-the-badge&logo=visualstudiocode&logoColor=blue)
 
 
   
