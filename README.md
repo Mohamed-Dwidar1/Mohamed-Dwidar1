@@ -13,7 +13,7 @@
 - ⚡ &nbsp; Passionate about Digital Electronics & Hardware Design.
 - 🌱 &nbsp; Currently exploring projects to sharpen my skills. 
 
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/mohamed-dwidar-378058321/) [Gmail](mohamed.dwidar322@gmail.com)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/mohamed-dwidar-378058321/) [Gmail](mailto:mohamed.dwider322@gmail.com)
 
 ---
 
