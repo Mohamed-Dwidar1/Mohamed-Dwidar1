@@ -9,7 +9,7 @@
 
 
 
-- 🎓 &nbsp; Junior Electronics and Communication Engineering student - Cairo University.
+- 🎓 &nbsp; A passionate Electronics and Communication Engineering student - Cairo University.
 - ⚡ &nbsp; Passionate about Digital Electronics & Hardware Design.
 - 🌱 &nbsp; Currently exploring projects to sharpen my skills. 
 
