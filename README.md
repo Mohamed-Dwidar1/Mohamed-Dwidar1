@@ -35,7 +35,10 @@
 
 
 - 🔧 &nbsp;
-![VS Code](https://img.shields.io/badge/VS%20Code-black?style=for-the-badge&logo=visualstudiocode&logoColor=blue)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="25"/>
+  Visual Studio Code
+</p>
 
 
   
