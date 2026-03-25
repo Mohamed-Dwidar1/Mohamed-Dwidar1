@@ -36,8 +36,10 @@
 
 - 🔧 &nbsp;
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="25"/>
-  Visual Studio Code
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="25"/>
+  MATLAB
+</p>
 
 
 
