@@ -22,12 +22,12 @@
 
 - 💻 &nbsp;
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-![MATLAB](https://img.shields.io/badge/-MATLAB-?style=flat&logo=MATLAB&logoColor=orange)
+![MATLAB](https://img.shields.io/badge/-MATLAB-FF8C00?style=flat&logo=MATLAB&logoColor=white)
 
 
 
 - 📟 &nbsp;
-![Verilog](https://img.shields.io/badge/-Verilog-333333?style=flat&logo=Verilog)
+![Verilog](https://img.shields.io/badge/-Verilog-007ACC?style=flat&logo=Verilog)
 
 - ⚙️ &nbsp;
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
@@ -35,7 +35,7 @@
 
 
 - 🔧 &nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ---
 
 </p>
