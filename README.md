@@ -35,10 +35,10 @@
 
 
 - 🔧 &nbsp;
-<p align="left">
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="25"/>
   Visual Studio Code
-</p>
+
 
 
   
