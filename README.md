@@ -17,6 +17,8 @@ I'm a communication and electronics student who is passionate about .
 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/mohamed-dwidar-378058321/)
 
+---
+
 <h3>  &nbsp;🛠️ Languages and Tools:</h3>
 
 
@@ -38,6 +40,7 @@ I'm a communication and electronics student who is passionate about .
   
 <br/>
 
+---
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 </p>
