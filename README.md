@@ -22,7 +22,7 @@
 
 - 💻 &nbsp;
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-![MATLAB](https://img.shields.io/badge/-MATLAB-black?style=flat-square&logo=MATLAB)
+![MATLAB](https://img.shields.io/badge/MATLAB-orange?logo=Mathworks&logoColor=white)
 
 
 - 📟 &nbsp;
