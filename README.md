@@ -45,3 +45,43 @@
 </p>
 <img src="https://imgur.com/rilHVxA.png"/>
 </p>
+
+---
+![Verilog](https://img.shields.io/badge/Verilog-ED1C24?style=for-the-badge&logo=verilog&logoColor=white)
+![VHDL](https://img.shields.io/badge/VHDL-1C79B3?style=for-the-badge&logoColor=white)
+
+---
+![Verilog](https://img.shields.io/badge/Verilog-HDL-blue)
+![VHDL](https://img.shields.io/badge/VHDL-HDL-purple)
+
+---
+![Verilog HDL](https://img.shields.io/badge/Verilog_HDL-gray?style=flat)
+![VHDL](https://img.shields.io/badge/VHDL-gray?style=flat)
+
+---
+## 🛠️ Languages and Tools
+
+![Python](https://img.shields.io/badge/Python-blue)
+![C](https://img.shields.io/badge/C-black)
+![C++](https://img.shields.io/badge/C++-blue)
+
+![Verilog](https://img.shields.io/badge/Verilog-HDL-blue)
+![VHDL](https://img.shields.io/badge/VHDL-HDL-purple)
+
+![Git](https://img.shields.io/badge/Git-orange)
+![Linux](https://img.shields.io/badge/Linux-black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-orange)
+![GitHub](https://img.shields.io/badge/GitHub-black)
+![Markdown](https://img.shields.io/badge/Markdown-black)
+
+---
+- ⚡ ![Verilog](https://img.shields.io/badge/Verilog-ED1C24?style=for-the-badge)
+- 🔌 ![VHDL](https://img.shields.io/badge/VHDL-1C79B3?style=for-the-badge)
+
+---
+- ⚡ ![Verilog](https://img.shields.io/badge/Verilog-ED1C24?style=for-the-badge) 
+🔌 ![VHDL](https://img.shields.io/badge/VHDL-1C79B3?style=for-the-badge)
+
+---
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/verilog/verilog-original.svg" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vhdl/vhdl-original.svg" height="30"/>
