@@ -21,7 +21,7 @@
 
 - 💻 &nbsp;
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-![MATLAB](https://img.shields.io/badge/-MATLAB-FF8C00?style=flat&logo=MATLAB&logoColor=white)
+![MATLAB](https://img.shields.io/badge/-MATLAB-FF8C00?style=flat&logo=MATLAB&logoColor=MATLAB)
 
 
 
@@ -34,7 +34,10 @@
 
 
 - 🔧 &nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=visual-studio-code)
+![Altium](https://img.shields.io/badge/-Altium-FF8C00?style=flat&logo=Altium&logoColor=Altium)
+![Cadence Virtuoso](https://img.shields.io/badge/-Cadence%20Virtuoso-333333?style=flat&logo=Cadence-Virtuoso&logoColor=Cadence-Virtuoso)
+![ModelSim](https://img.shields.io/badge/-ModelSim-007ACC?style=flat&logo=ModelSim&logoColor=ModelSim)
 ---
 
 </p>
