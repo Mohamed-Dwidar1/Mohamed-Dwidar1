@@ -21,7 +21,6 @@
 
 - 💻 &nbsp;
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-![MATLAB](https://img.shields.io/badge/-MATLAB-FF8C00?style=flat&logo=MATLAB&logoColor=MATLAB)
 
 
 
@@ -38,6 +37,9 @@
 ![Altium](https://img.shields.io/badge/-Altium-FF8C00?style=flat&logo=Altium&logoColor=Altium)
 ![Cadence Virtuoso](https://img.shields.io/badge/-Cadence%20Virtuoso-333333?style=flat&logo=Cadence-Virtuoso&logoColor=Cadence-Virtuoso)
 ![ModelSim](https://img.shields.io/badge/-ModelSim-007ACC?style=flat&logo=ModelSim&logoColor=ModelSim)
+![MATLAB](https://img.shields.io/badge/-MATLAB-FF8C00?style=flat&logo=MATLAB&logoColor=MATLAB)
+
+
 ---
 
 </p>
